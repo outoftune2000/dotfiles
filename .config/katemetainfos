@@ -1,0 +1,359 @@
+[file:///home/athulraj/.config/bat/config]
+Bookmarks=
+Checksum=4fa5c09af7bd39d4b958aebfa62a26242fea42d5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,16,17,51,8
+URL=file:///home/athulraj/.config/bat/config
+
+[file:///home/athulraj/.config/i3/config]
+Bookmarks=
+Checksum=27626e1ae1ac4c2fc83c5829cf848e743a593c37
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,13,39,13
+URL=file:///home/athulraj/.config/i3/config
+
+[file:///home/athulraj/.config/i3blocks/config]
+Bookmarks=
+Checksum=fec4f61aa2c7730394581b2a2d1450fc26c52d4e
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,13,3,48
+URL=file:///home/athulraj/.config/i3blocks/config
+
+[file:///home/athulraj/.config/neofetch/config.conf]
+Bookmarks=
+Checksum=9ddfed0bede2ccadf17df689307af71ed7e9884a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,16,17,54,36
+URL=file:///home/athulraj/.config/neofetch/config.conf
+
+[file:///home/athulraj/.i3/.mail.sh]
+Bookmarks=
+Checksum=9eeaf8456904a4b41bb634c43c13de0a453e229a
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2019,8,18,11,59,10
+URL=file:///home/athulraj/.i3/.mail.sh
+
+[file:///home/athulraj/.i3/IconicWeather.sh]
+Bookmarks=
+Checksum=9a600ff35ddc9651a4b2eaac19fbf1f0b3b55ba8
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2019,8,18,12,1,46
+URL=file:///home/athulraj/.i3/IconicWeather.sh
+
+[file:///home/athulraj/.i3/battery]
+Bookmarks=
+Checksum=5d0da601699acb957c8d1f18e3aaeb7f94a958bc
+Encoding=UTF-8
+Highlighting=Perl
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Perl
+Mode Set By User=false
+Time=2019,8,18,12,14,7
+URL=file:///home/athulraj/.i3/battery
+
+[file:///home/athulraj/.i3/i3scripts/arch_update.py]
+Bookmarks=
+Checksum=d48134ff791c5d713e57ea9b92b9006e5f92ac36
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2019,8,17,8,7,54
+URL=file:///home/athulraj/.i3/i3scripts/arch_update.py
+
+[file:///home/athulraj/.i3/i3scripts/bandwidth]
+Bookmarks=
+Checksum=d9d3ab27dba6ddf4e2e8a00c03268aaa1b009782
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2019,8,18,7,9,31
+URL=file:///home/athulraj/.i3/i3scripts/bandwidth
+
+[file:///home/athulraj/.i3/i3scripts/battery]
+Bookmarks=
+Checksum=5d0da601699acb957c8d1f18e3aaeb7f94a958bc
+Encoding=UTF-8
+Highlighting=Perl
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Perl
+Mode Set By User=false
+Time=2019,8,18,7,28,50
+URL=file:///home/athulraj/.i3/i3scripts/battery
+
+[file:///home/athulraj/.i3/i3scripts/cpu_usage]
+Bookmarks=
+Checksum=a4aaaca19e5bfd1eb9ea9db221b5056a4afb1da4
+Encoding=UTF-8
+Highlighting=Perl
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Perl
+Mode Set By User=false
+Time=2019,8,18,7,24,34
+URL=file:///home/athulraj/.i3/i3scripts/cpu_usage
+
+[file:///home/athulraj/.i3/i3scripts/iface]
+Bookmarks=
+Checksum=c44eeef05c7c24ee97cfb0f837b418c3425167b1
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2019,8,18,7,24,4
+URL=file:///home/athulraj/.i3/i3scripts/iface
+
+[file:///home/athulraj/.i3/i3scripts/keyindicator]
+Bookmarks=
+Checksum=9c215054ab6fadfdadb657f33c6839b95d79afd5
+Encoding=UTF-8
+Highlighting=Perl
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Perl
+Mode Set By User=false
+Time=2019,8,18,7,10,1
+URL=file:///home/athulraj/.i3/i3scripts/keyindicator
+
+[file:///home/athulraj/.i3/i3scripts/volume]
+Bookmarks=
+Checksum=a07b024d5a081fc40bd6890d03d7a7480824392c
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2019,8,16,17,28,12
+URL=file:///home/athulraj/.i3/i3scripts/volume
+
+[file:///home/athulraj/.i3/i3scripts/wifi]
+Bookmarks=
+Checksum=943b6735265d8c50350572e108723e0c9eb3c9d6
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2019,8,17,8,7,55
+URL=file:///home/athulraj/.i3/i3scripts/wifi
+
+[file:///home/athulraj/Documents/gitnew/.git/COMMIT_EDITMSG]
+Bookmarks=
+Checksum=de8d1e31aa168036e3e2d57d4ba7184f005a41e2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,9,1,37
+URL=file:///home/athulraj/Documents/gitnew/.git/COMMIT_EDITMSG
+
+[file:///home/athulraj/Documents/gitnew/.git/config]
+Bookmarks=
+Checksum=a7530d0b58a6c77b5df5dfc98647ea66e0eee80b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,9,2,0
+URL=file:///home/athulraj/Documents/gitnew/.git/config
+
+[file:///home/athulraj/Documents/practicegit/.git/COMMIT_EDITMSG]
+Bookmarks=
+Checksum=c1197cf5d82b8a5677de68be49d4ecf0bd78c565
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,17,14,44,52
+URL=file:///home/athulraj/Documents/practicegit/.git/COMMIT_EDITMSG
+
+[file:///home/athulraj/Documents/practicegit/.git/config]
+Bookmarks=
+Checksum=515f4836297fdf7567c066983c16e5eff598f7bd
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,17,14,44,21
+URL=file:///home/athulraj/Documents/practicegit/.git/config
+
+[file:///home/athulraj/Documents/practicegit/.git/description]
+Bookmarks=
+Checksum=498b267a8c7812490d6479839c5577eaaec79d62
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,17,14,45,2
+URL=file:///home/athulraj/Documents/practicegit/.git/description
+
+[file:///home/athulraj/Downloads/COMMIT_EDITMSG]
+Bookmarks=
+Checksum=de8d1e31aa168036e3e2d57d4ba7184f005a41e2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,9,14,44
+URL=file:///home/athulraj/Downloads/COMMIT_EDITMSG
+
+[file:///home/athulraj/Downloads/IconicWeather.sh]
+Bookmarks=
+Checksum=26457d5214a5adfb17c1adf1fbd93b3ca1e4b62c
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2019,8,18,12,16,22
+URL=file:///home/athulraj/Downloads/IconicWeather.sh
+
+[file:///home/athulraj/Downloads/config]
+Bookmarks=
+Checksum=a7530d0b58a6c77b5df5dfc98647ea66e0eee80b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,9,14,44
+URL=file:///home/athulraj/Downloads/config
+
+[file:///home/athulraj/Downloads/config(1)]
+Bookmarks=
+Checksum=ede6a5ef719fa65108d4d139f19ce0c91d6f72d6
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,11,47,55
+URL=file:///home/athulraj/Downloads/config(1)
+
+[file:///home/athulraj/Downloads/i3blocks.conf]
+Bookmarks=
+Checksum=b514bc459b68425b010a6ca497e198cad87111e4
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,12,16,22
+URL=file:///home/athulraj/Downloads/i3blocks.conf
+
+[file:///home/athulraj/Downloads/mail.sh]
+Bookmarks=
+Checksum=9eeaf8456904a4b41bb634c43c13de0a453e229a
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2019,8,18,11,58,27
+URL=file:///home/athulraj/Downloads/mail.sh
+
+[file:///run/media/athulraj/Outoftune/i3/config]
+Bookmarks=
+Checksum=f0bdc2780b93a476c8ff62f0ec28946c8c1cc6e5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,13,3,37
+URL=file:///run/media/athulraj/Outoftune/i3/config
+
+[file:///run/media/athulraj/Outoftune/i3blocks/config]
+Bookmarks=
+Checksum=01e65b8c7981b16fbcc8719be8b311414b83929c
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,13,3,37
+URL=file:///run/media/athulraj/Outoftune/i3blocks/config
+
+[file:///usr/lib/i3blocks/battery]
+Bookmarks=
+Checksum=d26603b8a8fad3c02e3bf8365ab1dbb2113bc752
+Encoding=UTF-8
+Highlighting=Perl
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Perl
+Mode Set By User=false
+Time=2019,8,18,13,3,35
+URL=file:///usr/lib/i3blocks/battery
+
+[file:///usr/lib/i3blocks/i3blocks.conf]
+Bookmarks=
+Checksum=b514bc459b68425b010a6ca497e198cad87111e4
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,8,18,13,3,38
+URL=file:///usr/lib/i3blocks/i3blocks.conf
