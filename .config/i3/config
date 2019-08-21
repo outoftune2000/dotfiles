@@ -110,9 +110,9 @@ bindsym $mod+Shift+0 move container to workspace $workspace0
 
 # Always open some programs on specified workspace
 assign [class="firefox"]    $workspace1
-assign [class="emacs"]	   	$workspace2
+assign [class="vim"]	   	$workspace2
 assign [class="VirtualBox"]	$workspace5
-assign [class="cmus"]		    $workspace7
+assign [class="steam"]		    $workspace7
 assign [class="spotify"]		$workspace7
 
 # Enable float for some windows
@@ -159,19 +159,19 @@ bindsym $mod+r mode "resize"
 # Defining colors
 
 # RGB
-set $cyan    #4ec2f7
-set $acqua	 #007089
-set $magenta #af005f
-set $silver  #e4e4e4
-set $elegant #00002c
+set $a   #390619
+set $b #e6e200
+set $c #ff0000
+set $d  #0000ff
+set $e #00ffff
 set $none    #00000000
 
 # Set some nice colors      border	 background text	   indicator
-client.focused              $cyan	   $cyan      $elegant $cyan
-client.unfocused            $elegant $elegant   $cyan    $elegant
-client.focused_inactive     $acqua   $acqua     $silver  $acqua
-client.urgent               $magenta $magenta   $silver  $magenta
-client.placeholder          $magenta $magenta   $silver  $magenta
+client.focused              $a	   $b      $e $a
+client.unfocused            $e $e   $a    $e
+client.focused_inactive     $b   $b     $c  $c
+client.urgent               $c $c   $d  $d
+client.placeholder          $c $c   $d  $c
 
 # Start i3blocks to display a workspace bar
 
